@@ -1,4 +1,4 @@
-#Game Project
+# Game Project
 
 Pasos para iniciar el juego en la terminal:
 
